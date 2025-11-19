@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="92f922721a-4a4b-008f-fb46-9bbe7c582a">
+    <type>catalog</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="ice" version="1.5.5"/>
+    <name>粗糙顺滑笔刷</name>
+    <created_date>2021/08/13 15:46:00</created_date>
+    <modified_date>2021/08/13 15:46:00</modified_date>
+    <thumbnail>
+      <fileref idref="d6badea68b-7143-ac82-d5dd-232e34941a"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="fe1536f355-764c-97bb-783a-a50544c9d6"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bdb362dbab-e849-4dae-ec13-d1b7fef7a1">
+        <tool company="celsys" name="ice" version="1.5.5"/>
+        <type ver="1.0.0">group</type>
+        <name>sort 1</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="663592d09f-9a42-5a92-1fa5-3adbf9a490">
+          <tool company="celsys" name="ice" version="1.5.5"/>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="82deeb1bab-5942-008b-9e3b-2e21cb19bd">
+              <tool company="celsys" name="paint" version="1.9.0"/>
+              <type ver="1.0.1">brush</type>
+              <name>粗糙顺滑笔刷</name>
+              <created_date>2021/08/13 15:46:00</created_date>
+              <modified_date>2021/08/13 15:46:00</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="cb6009fc0e-3f43-80a9-cded-31e4a3d57c"/>
+              </thumbnail>
+              <data>
+                <fileref idref="4b393509ea-824a-6783-46cc-d4b06da22a"/>
+              </data>
+              <icedata>
+                <fileref idref="253d6c8e3a-4148-25a0-42c0-f4de00a245"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="39c3d28f97-7949-e6af-7ff8-51e151e37d">
+          <tool company="celsys" name="ice" version="1.5.5"/>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="55afb2d805-9e46-f8a6-dafd-97e3180c7f">
+              <tool company="celsys" name="paint" version="1.9.0"/>
+              <type ver="1.0.1">brush</type>
+              <name>粗糙顺滑笔刷（粗细均匀）</name>
+              <created_date>2021/08/13 15:46:00</created_date>
+              <modified_date>2021/08/13 15:46:00</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="d15e65ee53-0849-f482-1042-c83be6e747"/>
+              </thumbnail>
+              <data>
+                <fileref idref="72fcef87d8-c242-24b2-9fad-8f9a11a6cc"/>
+              </data>
+              <icedata>
+                <fileref idref="6e56d34895-4b47-e58b-c27c-65ce536c6a"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="253d6c8e3a-4148-25a0-42c0-f4de00a245" mime="text/xml">
+      <path>82deeb1bab-5942-008b-9e3b-2e21cb19bd/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="4b393509ea-824a-6783-46cc-d4b06da22a" mime="application/octet-stream">
+      <path>82deeb1bab-5942-008b-9e3b-2e21cb19bd/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="6e56d34895-4b47-e58b-c27c-65ce536c6a" mime="text/xml">
+      <path>55afb2d805-9e46-f8a6-dafd-97e3180c7f/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="72fcef87d8-c242-24b2-9fad-8f9a11a6cc" mime="application/octet-stream">
+      <path>55afb2d805-9e46-f8a6-dafd-97e3180c7f/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="cb6009fc0e-3f43-80a9-cded-31e4a3d57c" mime="image/png">
+      <path>82deeb1bab-5942-008b-9e3b-2e21cb19bd/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d15e65ee53-0849-f482-1042-c83be6e747" mime="image/png">
+      <path>55afb2d805-9e46-f8a6-dafd-97e3180c7f/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d6badea68b-7143-ac82-d5dd-232e34941a" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="false" id="fe1536f355-764c-97bb-783a-a50544c9d6" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

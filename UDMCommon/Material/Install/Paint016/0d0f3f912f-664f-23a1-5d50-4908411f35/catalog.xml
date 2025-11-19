@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0d0f3f912f-664f-23a1-5d50-4908411f35">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.1"/>
+    <name>斑云纹2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6bb22640ac-8e47-53bb-c0df-6cbe44b0f0">
+        <tool company="celsys" name="paint" version="1.2.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e8a58d184c-3f4d-fba1-7bdd-f05f382d5f">
+            <tool company="celsys" name="paint" version="1.2.1"/>
+            <type ver="1.0.0">image</type>
+            <name>斑云纹2</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="567e48e40d-bf4e-1484-3877-ca7c2c4127"/>
+            </thumbnail>
+            <data>
+              <fileref idref="79ba8b87a6-ac4c-36b2-c803-e4a4fc7c05"/>
+            </data>
+            <icedata>
+              <fileref idref="09f203f0e3-2644-759d-7d47-0ec2e08df4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="09f203f0e3-2644-759d-7d47-0ec2e08df4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="567e48e40d-bf4e-1484-3877-ca7c2c4127" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="79ba8b87a6-ac4c-36b2-c803-e4a4fc7c05" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

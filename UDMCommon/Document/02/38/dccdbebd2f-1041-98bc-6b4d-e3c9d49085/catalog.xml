@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dccdbebd2f-1041-98bc-6b4d-e3c9d49085">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>让正义落在你额头</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="5c8846443c-914d-2bb5-733c-3d50e7681f">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ae97117b24-9741-8bb9-b3e5-d082db1746">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>让正义落在你额头</name>
+            <created_date>2025/08/28 08:20:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1b5ace62ce-2241-cfa8-8f80-2c36599961"/>
+            </thumbnail>
+            <data>
+              <fileref idref="2a0d5f46da-fd41-b39f-5354-2fe895b551"/>
+            </data>
+            <icedata>
+              <fileref idref="703bd595e9-5448-2881-58b7-d6995ac34a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1b5ace62ce-2241-cfa8-8f80-2c36599961" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="2a0d5f46da-fd41-b39f-5354-2fe895b551" mime="application/octet-stream">
+      <path>让正义落在你额头.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="703bd595e9-5448-2881-58b7-d6995ac34a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

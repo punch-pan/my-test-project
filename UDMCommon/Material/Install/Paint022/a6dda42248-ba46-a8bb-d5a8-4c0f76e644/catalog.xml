@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="a6dda42248-ba46-a8bb-d5a8-4c0f76e644">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.9"/>
+    <name>软毛笔01</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2b882856af-1143-cd9e-6961-6696e712cd">
+        <tool company="celsys" name="paint" version="1.10.9"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="da900d4413-a24b-8da7-5d65-3ad00905a0">
+            <tool company="celsys" name="paint" version="1.10.9"/>
+            <type ver="1.0.1">image</type>
+            <name>软毛笔02</name>
+            <created_date>2021/04/16 01:17:42</created_date>
+            <modified_date>2022/05/10 07:08:44</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="ba3230462d-ae43-51ba-a6a7-90af6c6b1f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="16ec7c13a9-e943-bc99-6502-336f50d312"/>
+            </data>
+            <icedata>
+              <fileref idref="155b31bd38-3a41-32ad-baba-ec570b96b5"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="155b31bd38-3a41-32ad-baba-ec570b96b5" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="16ec7c13a9-e943-bc99-6502-336f50d312" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ba3230462d-ae43-51ba-a6a7-90af6c6b1f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

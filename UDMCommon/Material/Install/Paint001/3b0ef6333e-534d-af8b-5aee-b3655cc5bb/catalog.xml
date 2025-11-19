@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="3b0ef6333e-534d-af8b-5aee-b3655cc5bb">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>3D素描人偶（男性）</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="37ee12a4e3-2c4d-84b6-d4a5-3e3e0ef721">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="863bed779b-3f43-9aae-3a56-83120e1d01">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">proportion</type>
+            <name>3D素描人偶（男性）</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="0f1baa0d69-f748-05b7-0b6e-bf5c89b60c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="fc4043be15-cc48-e394-a4a4-934fb04638"/>
+            </data>
+            <icedata>
+              <fileref idref="2f1a7bf05d-a84e-b8a7-caff-ac5b17a3e1"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="0f1baa0d69-f748-05b7-0b6e-bf5c89b60c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="2f1a7bf05d-a84e-b8a7-caff-ac5b17a3e1" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="fc4043be15-cc48-e394-a4a4-934fb04638" mime="application/octet-stream">
+      <path>data/material.bodyproportion</path>
+    </file>
+  </files>
+
+</archive>

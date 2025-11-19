@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="224bf21bcb-9640-f08f-639b-df6079506f">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.8.5"/>
+    <name>にじみC</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bc745df354-6149-1490-6782-24db2ebad1">
+        <tool company="celsys" name="paint" version="1.8.5"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="124c16d72e-7647-8bba-3b09-6e5469da51">
+            <tool company="celsys" name="paint" version="1.8.5"/>
+            <type ver="1.0.1">image</type>
+            <name>渗化C</name>
+            <created_date>2019/01/31 06:41:08</created_date>
+            <modified_date>2019/01/31 06:41:08</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="d99bce2f00-ec46-f9ad-aa51-7eca35838d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="e74c029569-ee4b-c4b8-24e2-2683e0472a"/>
+            </data>
+            <icedata>
+              <fileref idref="1a7b33527c-0f42-bea3-c305-8eab985067"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1a7b33527c-0f42-bea3-c305-8eab985067" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="d99bce2f00-ec46-f9ad-aa51-7eca35838d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="e74c029569-ee4b-c4b8-24e2-2683e0472a" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

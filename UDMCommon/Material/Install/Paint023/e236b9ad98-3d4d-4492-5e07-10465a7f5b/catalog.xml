@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="e236b9ad98-3d4d-4492-5e07-10465a7f5b">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>新建3D基础模型_0</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="06f41cde93-8c44-8cbf-d202-e8ea19d71c">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="c01cf9f038-3b45-cc93-179a-d61ea9df8c">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="1.0.0">3dprimitive</type>
+            <name>球体</name>
+            <created_date>2021/11/04 04:05:11</created_date>
+            <modified_date>2021/11/04 04:05:30</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="2ef678d305-f64c-5c88-64c2-e4235d3f1f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="634b0e95fd-a944-a682-5756-f162246c13"/>
+            </data>
+            <icedata>
+              <fileref idref="3eba65e726-7045-efb9-9935-1d0b71f86f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="2ef678d305-f64c-5c88-64c2-e4235d3f1f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="3eba65e726-7045-efb9-9935-1d0b71f86f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="634b0e95fd-a944-a682-5756-f162246c13" mime="application/octet-stream">
+      <path>data/material_0.3dprimitive</path>
+    </file>
+  </files>
+
+</archive>

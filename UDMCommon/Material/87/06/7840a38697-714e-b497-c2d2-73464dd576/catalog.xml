@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7840a38697-714e-b497-c2d2-73464dd576">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.8"/>
+    <name>FD-V1-L02</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="aa53bd5d3d-1943-f9a1-ebb9-5e628b0e01">
+        <tool company="celsys" name="paint" version="1.11.8"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="ebab005bee-4349-76ab-f65f-3220e20aca">
+            <tool company="celsys" name="paint" version="1.11.8"/>
+            <type ver="1.0.1">image</type>
+            <name>樱花树4</name>
+            <created_date>2022/07/19 09:43:26</created_date>
+            <modified_date>2022/07/19 09:43:33</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="63f21ab58f-7a4c-56ae-1cab-53de313c1c"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9e635d4b8f-d549-5b82-6a99-5b690b31ea"/>
+            </data>
+            <icedata>
+              <fileref idref="40c4caa56e-e049-caa6-a7a0-b61c5b065f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="40c4caa56e-e049-caa6-a7a0-b61c5b065f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="63f21ab58f-7a4c-56ae-1cab-53de313c1c" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="9e635d4b8f-d549-5b82-6a99-5b690b31ea" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

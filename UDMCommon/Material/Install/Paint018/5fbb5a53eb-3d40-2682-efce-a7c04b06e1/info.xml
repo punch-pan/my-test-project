@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e61790d475-6f45-f2a2-4377-20b9ee5b0d"/>
+
+  <info uuid="65f7f41e-05e8-406f-bda5-0bf65cdf531b">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>外观</data>
+      <data>3D</data>
+      <data>背景</data>
+      <data>住宅</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

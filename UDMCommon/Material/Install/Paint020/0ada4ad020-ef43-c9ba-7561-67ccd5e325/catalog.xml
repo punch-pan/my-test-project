@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="0ada4ad020-ef43-c9ba-7561-67ccd5e325">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.7.4"/>
+    <name>新規3Dデッサン人形_0</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="112fa86ff6-bd41-94b1-8931-8389581509">
+        <tool company="celsys" name="paint" version="1.7.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="1" parentuuid="" uuid="efcaac9d02-574d-4eb8-f041-cbbaf094a5">
+            <tool company="celsys" name="paint" version="1.7.4"/>
+            <type ver="1.0.2">proportion</type>
+            <name>3D 素描人偶-Ver.2（男性）</name>
+            <created_date>2018/04/10 00:17:56</created_date>
+            <modified_date>2018/04/10 00:17:56</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="08ca3df466-994f-29a9-783c-65b90c60d1"/>
+            </thumbnail>
+            <data>
+              <fileref idref="45200daa6d-6f4c-afb8-f1bc-8234cf2e8d"/>
+            </data>
+            <icedata>
+              <fileref idref="2b72b04cd3-cd47-19a9-b9a7-7f32eaf8de"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="08ca3df466-994f-29a9-783c-65b90c60d1" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="2b72b04cd3-cd47-19a9-b9a7-7f32eaf8de" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="45200daa6d-6f4c-afb8-f1bc-8234cf2e8d" mime="application/octet-stream">
+      <path>data/material_0.bodyproportion</path>
+    </file>
+  </files>
+
+</archive>

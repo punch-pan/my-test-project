@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="c01fe4775b-ed4f-9c9c-458a-8482d0a18d">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>彩色</data>
+      <data>彩色图案</data>
+      <data>效果-心情</data>
+      <data>暗-激-紧-怒</data>
+      <data>闪光</data>
+    </datalist>
+  </info>
+
+</infolist>

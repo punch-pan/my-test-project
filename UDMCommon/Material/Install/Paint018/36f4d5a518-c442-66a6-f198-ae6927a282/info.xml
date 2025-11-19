@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e19e3db49a-8b4a-53ad-c52f-38dda970e6"/>
+
+  <info uuid="b2fc653d-6bb5-4a44-be7b-3b40b3040a68">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>学生</data>
+      <data>女</data>
+      <data>3D</data>
+      <data>角色</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

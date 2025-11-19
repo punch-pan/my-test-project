@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archive>
+    <version>2.0.8</version>
+    <catalog modify_name="0" uuid="c08de3fd22-6742-9685-749c-19aa7b8998" modify_thumbnail="0" modify_info="0" modify_description="0">
+        <type>catalog</type>
+        <readonly>0</readonly>
+        <share_edit_flag>0</share_edit_flag>
+        <uploadable>1</uploadable>
+        <tool version="1.5.5" name="ice" company="celsys"/>
+        <name>手部图像素材</name>
+        <created_date>2023/01/17 13:56:28</created_date>
+        <modified_date>2023/01/17 13:56:28</modified_date>
+        <thumbnail>
+            <fileref idref="20432a6e14-3c40-0686-2f1e-568fd14a0e"/>
+        </thumbnail>
+        <icedata>
+            <fileref idref="77cd13d167-6a4d-71a0-a341-452cdf8d7b"/>
+        </icedata>
+        <groups>
+            <group modify_name="0" uuid="5a89c4a97d-674b-6593-971e-dbbf54d071" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                <tool version="1.5.5" name="ice" company="celsys"/>
+                <type ver="">group</type>
+                <name>sort 1</name>
+                <required>0</required>
+                <reserveId>0</reserveId>
+                <reserveWait>0</reserveWait>
+                <group modify_name="0" uuid="7556d5fe39-8b46-8698-6040-cbc1683366" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="553f728da1-1b4d-878a-0a54-fe20147d83" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手014</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="fa7bfe6a58-5542-48bc-a9f3-8232621c5e"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="a329304f72-9245-efa2-4bee-c65f253f14"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="038f031928-f048-5287-2f70-737b059818"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="a9668b297a-2a4f-2d90-190d-ea13946119" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="c74912ec0a-c042-f1b3-e132-4e346062f9" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手013</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="7757bbb558-6d47-3497-6f89-b100314694"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="640d609c42-c747-d1b1-12b6-cdaaad4a83"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="48d27d2183-bd40-b189-0d98-075ffdec35"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="4e33fb14dc-b248-0391-5198-d6ad14aea3" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="4707fca619-7540-ed80-854e-a377a1bfc2" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手012</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="5276081ead-5e4d-5ba9-7fe7-dfc8408900"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="56a3265437-5442-cabf-1b56-a5e2277f17"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="69c2d49968-3c4c-f1b1-6833-eb68ec9a92"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="51227dc36d-bb40-21be-c66c-9f46f45257" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="45bce48d32-fd41-cbb7-cc48-e2ea743d09" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手011</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="51351c27f4-d242-0087-3eee-587cf6c822"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="20f41392fd-cf44-4fbd-77c1-0cdf860265"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="83d5041139-2f49-9294-f48b-6e355976ed"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="138100d21c-aa4d-9793-f5b5-36a9d0b137" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="f73401868f-6643-0aac-41a3-8c3e75ad2a" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手010</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="aca8aff603-734b-e4af-b14d-54fd673df0"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="751e05be2e-2a40-7790-237d-201e6bc690"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="1c28179d25-c048-9799-08b2-5d631b5bef"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="bb3c851b22-214b-bdb2-8159-0ca83727d5" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="94aa4431d8-fb4b-80b1-2713-126c86acc5" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手009</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="254b5397d7-a14c-269a-7e45-dcd0125bd6"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="e8994110b2-0440-59a6-5b0c-e60b3e3543"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="3fe119d5fa-384c-ccbd-1d42-778448da32"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="e0918cb2af-e444-c985-825b-d5e87eb949" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="be97c4b3f2-9240-25a2-5801-0222e5da84" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手008</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="7986bd6348-b943-5a9d-c96f-7f33f92f76"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="c9478e9883-6a41-8483-832e-91a7f018c9"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="2df4325a1b-5a49-3eb9-7ad4-c04a78788e"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="ddeb44b4b9-fe42-d2b9-6f6c-b260c849e3" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="6bda2efac1-4245-6ea1-a634-aae38c2201" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手007</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="c151e25a4b-4a46-f1ad-b6d5-d6053087de"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="58ddd4757f-c942-8ebb-fdbd-c54a197af3"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="ce65aac59a-4342-aeae-c669-4a49a287e5"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="ccfcc185a6-b74e-43a1-214c-8a1507b607" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="115783203d-444f-18b7-1cd0-98a5dbc561" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手006</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="e9c795ffc0-8e4a-ed90-bc9b-5774b1abb5"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="12521dea59-ac49-43b6-4b7a-1c01c340d7"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="23e248ccd9-674a-e5a7-fe03-e53c32a120"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="31cf31951a-3343-73b2-ac51-6f737c6c96" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="98df1b7934-fa4b-5f85-f375-3343031c3d" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手005</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="040a5a9855-8247-7b9a-c623-e7733cd9d1"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="cb06b6ce90-0441-f98f-70f0-cba4c830f5"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="2cc1da933f-1c49-d3b3-d660-4b4ffdf0fa"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="1d08d8509c-6b47-19a8-582b-962e85b5c1" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="f2fdb3af42-fd4c-a984-8e97-558d60dc6c" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手004</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="d494f9281e-4c49-298e-282f-a764ab9fae"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="a0b6672d0e-6345-6481-d397-a765344324"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="8f8ff0a623-a849-b88e-5b44-7754c4d37d"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="78fa239aa6-644d-74b1-dadb-1ca83bd196" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="0708821187-e247-478e-af81-d0aec36188" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手003</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="61e633fc72-be4b-25b8-a7bd-9c95f4e075"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="803d80a5b5-8b4e-d68e-c376-d6117e55f5"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="342dc48e0e-5a4f-0e82-fa20-4a2cd48dfa"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="cdcda3c690-c14f-ee9b-ae32-53e3778a98" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="260ce929d7-d741-67ac-7b39-4e03b1c945" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手002</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="6dd27d3420-6549-dfbe-896e-a06ff02df9"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="b36d848f6f-d040-06b8-d05f-4c1e0c94fd"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="5651d0e22b-fa49-eaa9-219c-e66bc21e1f"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_name="0" uuid="7647fc1f39-ae4f-d088-ee50-a65a314250" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_name="0" uuid="3ea155d700-4246-47a2-a363-7ca895a2f1" parentuuid="" modify_thumbnail="0" modify_info="0" modify_description="0">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>手001</name>
+                            <created_date>2023/01/17 13:56:28</created_date>
+                            <modified_date>2023/01/17 13:56:28</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="8f724b2351-5c43-11b4-91e3-4924794d46"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="0a7874863a-8e44-15b2-99b1-bff12586da"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="5fce9f51a9-b74c-1893-59eb-88a80466e8"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+            </group>
+        </groups>
+        <region/>
+    </catalog>
+    <files>
+        <file id="20432a6e14-3c40-0686-2f1e-568fd14a0e" document="false" encrypt="false" mime="image/png">
+            <path>thumbnail/catalogThumb.png</path>
+        </file>
+        <file id="77cd13d167-6a4d-71a0-a341-452cdf8d7b" document="false" encrypt="false" mime="text/xml">
+            <path>icedata/layerData.xml</path>
+        </file>
+        <file id="a329304f72-9245-efa2-4bee-c65f253f14" document="false" encrypt="true" mime="application/octet-stream">
+            <path>553f728da1-1b4d-878a-0a54-fe20147d83/data/material_0.layer</path>
+        </file>
+        <file id="fa7bfe6a58-5542-48bc-a9f3-8232621c5e" document="false" encrypt="false" mime="image/png">
+            <path>553f728da1-1b4d-878a-0a54-fe20147d83/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="038f031928-f048-5287-2f70-737b059818" document="false" encrypt="false" mime="text/xml">
+            <path>553f728da1-1b4d-878a-0a54-fe20147d83/icedata/layerData.xml</path>
+        </file>
+        <file id="640d609c42-c747-d1b1-12b6-cdaaad4a83" document="false" encrypt="true" mime="application/octet-stream">
+            <path>c74912ec0a-c042-f1b3-e132-4e346062f9/data/material_0.layer</path>
+        </file>
+        <file id="7757bbb558-6d47-3497-6f89-b100314694" document="false" encrypt="false" mime="image/png">
+            <path>c74912ec0a-c042-f1b3-e132-4e346062f9/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="48d27d2183-bd40-b189-0d98-075ffdec35" document="false" encrypt="false" mime="text/xml">
+            <path>c74912ec0a-c042-f1b3-e132-4e346062f9/icedata/layerData.xml</path>
+        </file>
+        <file id="56a3265437-5442-cabf-1b56-a5e2277f17" document="false" encrypt="true" mime="application/octet-stream">
+            <path>4707fca619-7540-ed80-854e-a377a1bfc2/data/material_0.layer</path>
+        </file>
+        <file id="5276081ead-5e4d-5ba9-7fe7-dfc8408900" document="false" encrypt="false" mime="image/png">
+            <path>4707fca619-7540-ed80-854e-a377a1bfc2/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="69c2d49968-3c4c-f1b1-6833-eb68ec9a92" document="false" encrypt="false" mime="text/xml">
+            <path>4707fca619-7540-ed80-854e-a377a1bfc2/icedata/layerData.xml</path>
+        </file>
+        <file id="20f41392fd-cf44-4fbd-77c1-0cdf860265" document="false" encrypt="true" mime="application/octet-stream">
+            <path>45bce48d32-fd41-cbb7-cc48-e2ea743d09/data/material_0.layer</path>
+        </file>
+        <file id="51351c27f4-d242-0087-3eee-587cf6c822" document="false" encrypt="false" mime="image/png">
+            <path>45bce48d32-fd41-cbb7-cc48-e2ea743d09/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="83d5041139-2f49-9294-f48b-6e355976ed" document="false" encrypt="false" mime="text/xml">
+            <path>45bce48d32-fd41-cbb7-cc48-e2ea743d09/icedata/layerData.xml</path>
+        </file>
+        <file id="751e05be2e-2a40-7790-237d-201e6bc690" document="false" encrypt="true" mime="application/octet-stream">
+            <path>f73401868f-6643-0aac-41a3-8c3e75ad2a/data/material_0.layer</path>
+        </file>
+        <file id="aca8aff603-734b-e4af-b14d-54fd673df0" document="false" encrypt="false" mime="image/png">
+            <path>f73401868f-6643-0aac-41a3-8c3e75ad2a/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="1c28179d25-c048-9799-08b2-5d631b5bef" document="false" encrypt="false" mime="text/xml">
+            <path>f73401868f-6643-0aac-41a3-8c3e75ad2a/icedata/layerData.xml</path>
+        </file>
+        <file id="e8994110b2-0440-59a6-5b0c-e60b3e3543" document="false" encrypt="true" mime="application/octet-stream">
+            <path>94aa4431d8-fb4b-80b1-2713-126c86acc5/data/material_0.layer</path>
+        </file>
+        <file id="254b5397d7-a14c-269a-7e45-dcd0125bd6" document="false" encrypt="false" mime="image/png">
+            <path>94aa4431d8-fb4b-80b1-2713-126c86acc5/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="3fe119d5fa-384c-ccbd-1d42-778448da32" document="false" encrypt="false" mime="text/xml">
+            <path>94aa4431d8-fb4b-80b1-2713-126c86acc5/icedata/layerData.xml</path>
+        </file>
+        <file id="c9478e9883-6a41-8483-832e-91a7f018c9" document="false" encrypt="true" mime="application/octet-stream">
+            <path>be97c4b3f2-9240-25a2-5801-0222e5da84/data/material_0.layer</path>
+        </file>
+        <file id="7986bd6348-b943-5a9d-c96f-7f33f92f76" document="false" encrypt="false" mime="image/png">
+            <path>be97c4b3f2-9240-25a2-5801-0222e5da84/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="2df4325a1b-5a49-3eb9-7ad4-c04a78788e" document="false" encrypt="false" mime="text/xml">
+            <path>be97c4b3f2-9240-25a2-5801-0222e5da84/icedata/layerData.xml</path>
+        </file>
+        <file id="58ddd4757f-c942-8ebb-fdbd-c54a197af3" document="false" encrypt="true" mime="application/octet-stream">
+            <path>6bda2efac1-4245-6ea1-a634-aae38c2201/data/material_0.layer</path>
+        </file>
+        <file id="c151e25a4b-4a46-f1ad-b6d5-d6053087de" document="false" encrypt="false" mime="image/png">
+            <path>6bda2efac1-4245-6ea1-a634-aae38c2201/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="ce65aac59a-4342-aeae-c669-4a49a287e5" document="false" encrypt="false" mime="text/xml">
+            <path>6bda2efac1-4245-6ea1-a634-aae38c2201/icedata/layerData.xml</path>
+        </file>
+        <file id="12521dea59-ac49-43b6-4b7a-1c01c340d7" document="false" encrypt="true" mime="application/octet-stream">
+            <path>115783203d-444f-18b7-1cd0-98a5dbc561/data/material_0.layer</path>
+        </file>
+        <file id="e9c795ffc0-8e4a-ed90-bc9b-5774b1abb5" document="false" encrypt="false" mime="image/png">
+            <path>115783203d-444f-18b7-1cd0-98a5dbc561/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="23e248ccd9-674a-e5a7-fe03-e53c32a120" document="false" encrypt="false" mime="text/xml">
+            <path>115783203d-444f-18b7-1cd0-98a5dbc561/icedata/layerData.xml</path>
+        </file>
+        <file id="cb06b6ce90-0441-f98f-70f0-cba4c830f5" document="false" encrypt="true" mime="application/octet-stream">
+            <path>98df1b7934-fa4b-5f85-f375-3343031c3d/data/material_0.layer</path>
+        </file>
+        <file id="040a5a9855-8247-7b9a-c623-e7733cd9d1" document="false" encrypt="false" mime="image/png">
+            <path>98df1b7934-fa4b-5f85-f375-3343031c3d/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="2cc1da933f-1c49-d3b3-d660-4b4ffdf0fa" document="false" encrypt="false" mime="text/xml">
+            <path>98df1b7934-fa4b-5f85-f375-3343031c3d/icedata/layerData.xml</path>
+        </file>
+        <file id="a0b6672d0e-6345-6481-d397-a765344324" document="false" encrypt="true" mime="application/octet-stream">
+            <path>f2fdb3af42-fd4c-a984-8e97-558d60dc6c/data/material_0.layer</path>
+        </file>
+        <file id="d494f9281e-4c49-298e-282f-a764ab9fae" document="false" encrypt="false" mime="image/png">
+            <path>f2fdb3af42-fd4c-a984-8e97-558d60dc6c/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="8f8ff0a623-a849-b88e-5b44-7754c4d37d" document="false" encrypt="false" mime="text/xml">
+            <path>f2fdb3af42-fd4c-a984-8e97-558d60dc6c/icedata/layerData.xml</path>
+        </file>
+        <file id="803d80a5b5-8b4e-d68e-c376-d6117e55f5" document="false" encrypt="true" mime="application/octet-stream">
+            <path>0708821187-e247-478e-af81-d0aec36188/data/material_0.layer</path>
+        </file>
+        <file id="61e633fc72-be4b-25b8-a7bd-9c95f4e075" document="false" encrypt="false" mime="image/png">
+            <path>0708821187-e247-478e-af81-d0aec36188/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="342dc48e0e-5a4f-0e82-fa20-4a2cd48dfa" document="false" encrypt="false" mime="text/xml">
+            <path>0708821187-e247-478e-af81-d0aec36188/icedata/layerData.xml</path>
+        </file>
+        <file id="b36d848f6f-d040-06b8-d05f-4c1e0c94fd" document="false" encrypt="true" mime="application/octet-stream">
+            <path>260ce929d7-d741-67ac-7b39-4e03b1c945/data/material_0.layer</path>
+        </file>
+        <file id="6dd27d3420-6549-dfbe-896e-a06ff02df9" document="false" encrypt="false" mime="image/png">
+            <path>260ce929d7-d741-67ac-7b39-4e03b1c945/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="5651d0e22b-fa49-eaa9-219c-e66bc21e1f" document="false" encrypt="false" mime="text/xml">
+            <path>260ce929d7-d741-67ac-7b39-4e03b1c945/icedata/layerData.xml</path>
+        </file>
+        <file id="0a7874863a-8e44-15b2-99b1-bff12586da" document="false" encrypt="true" mime="application/octet-stream">
+            <path>3ea155d700-4246-47a2-a363-7ca895a2f1/data/material_0.layer</path>
+        </file>
+        <file id="8f724b2351-5c43-11b4-91e3-4924794d46" document="false" encrypt="false" mime="image/png">
+            <path>3ea155d700-4246-47a2-a363-7ca895a2f1/thumbnail/thumbnail.png</path>
+        </file>
+        <file id="5fce9f51a9-b74c-1893-59eb-88a80466e8" document="false" encrypt="false" mime="text/xml">
+            <path>3ea155d700-4246-47a2-a363-7ca895a2f1/icedata/layerData.xml</path>
+        </file>
+    </files>
+</archive>

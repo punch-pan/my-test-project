@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="646334275e-eb47-74ac-dc7b-fc3965d369" ver="20130425104312">
+    <ccf_registed_at>2013/04/25 10:43:12</ccf_registed_at>
+    <content_id>1431104</content_id>
+    <origin_content_id>1431104</origin_content_id>
+    <url>http://www.clip-studio.com/clip_ice/</url>
+    <type>material</type>
+    <user_id>9114</user_id>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="1.2.0"/>
+    <name>遠景の桜</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="957f044789-3a4b-92b2-f18b-ee29d645e8" ver="20130425104312">
+        <ccf_registed_at>2013/04/25 10:43:12</ccf_registed_at>
+        <tool company="celsys" name="paint" version="1.2.0"/>
+        <user_id>9114</user_id>
+        <group_id>17640</group_id>
+        <type>material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a4bd59478d-0245-41a2-726f-d9ffc885c6" ver="20130425104312">
+            <ccf_registed_at>2013/04/25 10:43:12</ccf_registed_at>
+            <tool company="celsys" name="paint" version="1.2.0"/>
+            <user_id>9114</user_id>
+            <item_id>17641</item_id>
+            <type>image</type>
+            <name>远景樱花树</name>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="a8dfdddc83-0849-4098-7797-958dcaa08b"/>
+            </thumbnail>
+            <data>
+              <fileref idref="9de5001025-ec44-6097-028c-da5cd36b4e"/>
+            </data>
+            <icedata>
+              <fileref idref="ba7c267374-9949-a3b1-027b-579a1dafea"/>
+            </icedata>
+            <description>
+              <fileref idref="53fa6438dd-f347-4c84-9345-637f99ced7"/>
+            </description>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="53fa6438dd-f347-4c84-9345-637f99ced7" mime="application/octet-stream">
+      <path>description/description.tar</path>
+    </file>
+    <file document="false" encrypt="true" id="9de5001025-ec44-6097-028c-da5cd36b4e" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="a8dfdddc83-0849-4098-7797-958dcaa08b" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="ba7c267374-9949-a3b1-027b-579a1dafea" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>
