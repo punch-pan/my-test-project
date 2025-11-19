@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e7b623f682-f84a-9585-0a39-2caee5ada6"/>
+
+  <info uuid="d638d5ac-58c3-40fb-bd91-6d0926fcf03e">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>小道具</data>
+      <data>3D</data>
+      <data>小物品</data>
+      <data>音乐-乐器</data>
+      <data>道具</data>
+    </datalist>
+    <datalist key="updateHistory">
+      <data></data>
+    </datalist>
+  </info>
+
+</infolist>

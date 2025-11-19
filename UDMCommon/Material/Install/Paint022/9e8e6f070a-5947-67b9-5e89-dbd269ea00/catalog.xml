@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="9e8e6f070a-5947-67b9-5e89-dbd269ea00">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.10"/>
+    <name>蔷薇叶03</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b85df74af8-404b-be80-4a40-5be0541bae">
+        <tool company="celsys" name="paint" version="1.10.10"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="77ef318fd5-194d-01bc-62db-8663074767">
+            <tool company="celsys" name="paint" version="1.10.10"/>
+            <type ver="1.0.1">image</type>
+            <name>蔷薇叶03</name>
+            <created_date>2021/04/25 11:04:06</created_date>
+            <modified_date>2022/05/10 06:25:27</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="1a6f234af2-ad4b-4eb9-e904-e72736d689"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c6d0d0b78d-a24b-92a9-137a-5d66eefa12"/>
+            </data>
+            <icedata>
+              <fileref idref="2b57dba071-7143-93b7-4db0-56b2ecc692"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="1a6f234af2-ad4b-4eb9-e904-e72736d689" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="2b57dba071-7143-93b7-4db0-56b2ecc692" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="c6d0d0b78d-a24b-92a9-137a-5d66eefa12" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

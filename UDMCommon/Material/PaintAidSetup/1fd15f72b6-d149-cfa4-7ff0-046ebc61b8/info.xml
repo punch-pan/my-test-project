@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<infolist>
+    <version>2.0.0</version>
+    <info uuid="1fd15f72b6-d149-cfa4-7ff0-046ebc61b8">
+        <datalist key="lead">
+            <data/>
+        </datalist>
+        <datalist key="tag"/>
+        <datalist key="updateHistory">
+            <data/>
+        </datalist>
+    </info>
+    <info uuid="c1df928e01-fa4d-cd80-ceda-874d9d1ae5">
+        <datalist key="lead">
+            <data/>
+        </datalist>
+        <datalist key="tag"/>
+        <datalist key="updateHistory">
+            <data/>
+        </datalist>
+    </info>
+    <info uuid="b5b036faa7-984c-2cad-7b03-28bcd6ca0b">
+        <datalist key="lead">
+            <data/>
+        </datalist>
+        <datalist key="tag"/>
+        <datalist key="updateHistory">
+            <data/>
+        </datalist>
+    </info>
+</infolist>

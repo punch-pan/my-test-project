@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="dba4b03f01-954b-93a8-0413-c7abd3640f">
+    <type>catalog</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="ice" version="1.5.5"/>
+    <name>KUSU笔</name>
+    <created_date>2024/11/29 13:09:00</created_date>
+    <modified_date>2024/11/29 13:09:00</modified_date>
+    <thumbnail>
+      <fileref idref="5efdc6aeb5-5c4c-9096-0c4b-c39aa6f204"/>
+    </thumbnail>
+    <icedata>
+      <fileref idref="f260dd7e47-7a4b-2892-5372-44b01f1587"/>
+    </icedata>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="77f9fef5cb-9d41-e2af-1091-0fb4ae8a7c">
+        <tool company="celsys" name="ice" version="1.5.5"/>
+        <type ver="1.0.0">group</type>
+        <name>sort 1</name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="4b919cfd81-764b-9d84-abb7-5f20908a72">
+          <tool company="celsys" name="ice" version="1.5.5"/>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="b807b31168-a047-22b1-489b-4738f4bd58">
+              <tool company="celsys" name="paint" version="1.9.0"/>
+              <type ver="1.0.1">brush</type>
+              <name>KUSU笔 b</name>
+              <created_date>2024/11/29 13:09:00</created_date>
+              <modified_date>2024/11/29 13:09:00</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="d28ff87f72-0d4c-87a2-4e28-62915a6213"/>
+              </thumbnail>
+              <data>
+                <fileref idref="2d1b4abf29-a94c-079f-d10e-028bd84137"/>
+              </data>
+              <icedata>
+                <fileref idref="19e7035203-584a-ba8f-c377-27538e1f30"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6128dec473-334d-0a9b-c308-394ec562c3">
+          <tool company="celsys" name="ice" version="1.5.5"/>
+          <type ver="1.0.0">material</type>
+          <name></name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="afe17959fd-d14a-88ab-5bd7-e682e2c1d7">
+              <tool company="celsys" name="paint" version="1.9.0"/>
+              <type ver="1.0.1">brush</type>
+              <name>KUSU笔 a</name>
+              <created_date>2024/11/29 13:09:00</created_date>
+              <modified_date>2024/11/29 13:09:00</modified_date>
+              <required>0</required>
+              <permittool>
+                <cspdebut>1</cspdebut>
+              </permittool>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="5e7bccbfd8-0747-f89f-ec67-16eb6ce372"/>
+              </thumbnail>
+              <data>
+                <fileref idref="93148ffd7f-7944-daaa-cbe0-097dc27f2f"/>
+              </data>
+              <icedata>
+                <fileref idref="12c490e55a-2f44-439d-a293-943fd62d81"/>
+              </icedata>
+            </item>
+          </items>
+        </group>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="12c490e55a-2f44-439d-a293-943fd62d81" mime="text/xml">
+      <path>afe17959fd-d14a-88ab-5bd7-e682e2c1d7/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="19e7035203-584a-ba8f-c377-27538e1f30" mime="text/xml">
+      <path>b807b31168-a047-22b1-489b-4738f4bd58/icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="2d1b4abf29-a94c-079f-d10e-028bd84137" mime="application/octet-stream">
+      <path>b807b31168-a047-22b1-489b-4738f4bd58/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="5e7bccbfd8-0747-f89f-ec67-16eb6ce372" mime="image/png">
+      <path>afe17959fd-d14a-88ab-5bd7-e682e2c1d7/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="5efdc6aeb5-5c4c-9096-0c4b-c39aa6f204" mime="image/png">
+      <path>thumbnail/catalogThumb.png</path>
+    </file>
+    <file document="false" encrypt="true" id="93148ffd7f-7944-daaa-cbe0-097dc27f2f" mime="application/octet-stream">
+      <path>afe17959fd-d14a-88ab-5bd7-e682e2c1d7/data/material_0.tool</path>
+    </file>
+    <file document="false" encrypt="false" id="d28ff87f72-0d4c-87a2-4e28-62915a6213" mime="image/png">
+      <path>b807b31168-a047-22b1-489b-4738f4bd58/thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="f260dd7e47-7a4b-2892-5372-44b01f1587" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

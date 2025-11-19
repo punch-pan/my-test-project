@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="05d6cf1c1c-5344-96a0-01f4-1bc3b6c0bb">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.11.4"/>
+    <name>新建3D基础模型_0</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dc024482d7-ac4c-fb8b-90ff-9bb5baceee">
+        <tool company="celsys" name="paint" version="1.11.4"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="260158f506-d54e-7391-e8e3-253cc5148c">
+            <tool company="celsys" name="paint" version="1.11.4"/>
+            <type ver="1.0.0">3dprimitive</type>
+            <name>棱柱</name>
+            <created_date>2021/11/04 04:04:19</created_date>
+            <modified_date>2021/11/04 04:05:02</modified_date>
+            <required>0</required>
+            <permittool>
+              <cspdebut>1</cspdebut>
+            </permittool>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3079588be8-4f47-9881-f6d2-bc4d4f2b70"/>
+            </thumbnail>
+            <data>
+              <fileref idref="12faa263b5-b34d-b388-2129-11fc911016"/>
+            </data>
+            <icedata>
+              <fileref idref="2b4e327023-764c-d497-f7e0-a4c1419748"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="12faa263b5-b34d-b388-2129-11fc911016" mime="application/octet-stream">
+      <path>data/material_0.3dprimitive</path>
+    </file>
+    <file document="false" encrypt="false" id="2b4e327023-764c-d497-f7e0-a4c1419748" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="3079588be8-4f47-9881-f6d2-bc4d4f2b70" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

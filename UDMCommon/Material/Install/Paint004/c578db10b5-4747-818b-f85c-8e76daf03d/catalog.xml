@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="c578db10b5-4747-818b-f85c-8e76daf03d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.1.0"/>
+    <name>3D素描人偶（女性）</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="2ea0c5e34f-f24e-679e-4e79-cf721622a8">
+        <tool company="celsys" name="paint" version="1.1.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0b2dbc802f-654b-dcb0-cda6-c4b67095ff">
+            <tool company="celsys" name="paint" version="1.1.0"/>
+            <type ver="1.0.0">proportion</type>
+            <name>3D素描人偶（女性）</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="c7a90d01d6-3940-55a6-7c57-04f0316c6a"/>
+            </thumbnail>
+            <data>
+              <fileref idref="97b111af72-954b-89bc-3bc8-ee95edb140"/>
+            </data>
+            <icedata>
+              <fileref idref="dacd653ba0-ce45-5c9f-29da-ff30ec012b"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="97b111af72-954b-89bc-3bc8-ee95edb140" mime="application/octet-stream">
+      <path>data/material.bodyproportion</path>
+    </file>
+    <file document="false" encrypt="false" id="c7a90d01d6-3940-55a6-7c57-04f0316c6a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="dacd653ba0-ce45-5c9f-29da-ff30ec012b" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

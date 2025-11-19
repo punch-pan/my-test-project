@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="a83e8acd11-7c4d-ad9e-fdea-2c14341610">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>学校</data>
+      <data>背景</data>
+      <data>人工</data>
+      <data>彩色</data>
+      <data>彩色图案</data>
+    </datalist>
+  </info>
+
+</infolist>

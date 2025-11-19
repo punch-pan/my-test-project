@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="46658d72ba-ce49-93a8-276e-d7653a50ed">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>L</data>
+      <data>单色</data>
+      <data>单色图案</data>
+      <data>网</data>
+      <data>直线</data>
+    </datalist>
+  </info>
+
+</infolist>

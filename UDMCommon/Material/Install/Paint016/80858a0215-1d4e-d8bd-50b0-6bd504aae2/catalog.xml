@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="80858a0215-1d4e-d8bd-50b0-6bd504aae2">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.1"/>
+    <name>棉布纹理</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="7fd3c6ff61-9d40-15bc-147d-3fe5efb9f4">
+        <tool company="celsys" name="paint" version="1.2.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3150cff9d7-cf48-d7bc-c744-eff22cdece">
+            <tool company="celsys" name="paint" version="1.2.1"/>
+            <type ver="1.0.0">image</type>
+            <name>棉布纹理</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3ce27f814e-2d4b-31ba-7908-14e1d49a22"/>
+            </thumbnail>
+            <data>
+              <fileref idref="4fa60b4004-cf4a-7b9a-c35c-30dfd990ed"/>
+            </data>
+            <icedata>
+              <fileref idref="ab90cb8485-1d4a-8f93-0aa7-e825ce39eb"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3ce27f814e-2d4b-31ba-7908-14e1d49a22" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="4fa60b4004-cf4a-7b9a-c35c-30dfd990ed" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="ab90cb8485-1d4a-8f93-0aa7-e825ce39eb" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

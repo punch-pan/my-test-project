@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="30e3b97c99-b742-e18d-e00e-a76c2da3e7">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.0"/>
+    <name>云晕染</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0efb917b9c-5b47-6184-d84a-a4b2346eb5">
+        <tool company="celsys" name="paint" version="1.2.0"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="cf3b0d158d-de4e-95a1-2a60-34a064ab0f">
+            <tool company="celsys" name="paint" version="1.2.0"/>
+            <type ver="1.0.0">image</type>
+            <name>云</name>
+            <created_date>2021/04/06 10:31:54</created_date>
+            <modified_date>2022/05/10 07:19:44</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="3286953686-794d-ce84-30a0-dae4fa1924"/>
+            </thumbnail>
+            <data>
+              <fileref idref="ffabd87cf8-e747-8484-e80f-af7c3a14f3"/>
+            </data>
+            <icedata>
+              <fileref idref="d4a3e105f2-7f40-9191-0637-0195171cc4"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3286953686-794d-ce84-30a0-dae4fa1924" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="d4a3e105f2-7f40-9191-0637-0195171cc4" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="ffabd87cf8-e747-8484-e80f-af7c3a14f3" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

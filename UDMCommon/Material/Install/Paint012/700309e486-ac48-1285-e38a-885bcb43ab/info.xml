@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="ab6e2d5d0b-f04d-a88c-090f-374624790c">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>漫画素材</data>
+      <data>单色</data>
+      <data>优漫</data>
+      <data>台词</data>
+      <data>叫喊</data>
+    </datalist>
+  </info>
+
+</infolist>

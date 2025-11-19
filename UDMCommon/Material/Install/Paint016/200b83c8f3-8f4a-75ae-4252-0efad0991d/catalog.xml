@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="200b83c8f3-8f4a-75ae-4252-0efad0991d">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.1"/>
+    <name>细目纹</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="19c2690960-fb4d-07b6-f79d-15077e046d">
+        <tool company="celsys" name="paint" version="1.2.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="aae8f3d339-5d44-f2bf-f4cb-9b043dbffc">
+            <tool company="celsys" name="paint" version="1.2.1"/>
+            <type ver="1.0.0">image</type>
+            <name>细目纹</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="da5e5487a9-6842-199e-43c0-9dee1ffe28"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6744c96fdd-c940-cf80-9911-d5778c98c5"/>
+            </data>
+            <icedata>
+              <fileref idref="e74d308608-0241-a4ac-9762-f07cf92a07"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="6744c96fdd-c940-cf80-9911-d5778c98c5" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="da5e5487a9-6842-199e-43c0-9dee1ffe28" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e74d308608-0241-a4ac-9762-f07cf92a07" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

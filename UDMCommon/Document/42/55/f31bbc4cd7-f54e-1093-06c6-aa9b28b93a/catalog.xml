@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="f31bbc4cd7-f54e-1093-06c6-aa9b28b93a">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>插画2</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c72e66d588-0644-bcb3-7af8-8a7150f38c">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="c93474d418-ad46-989e-9504-e84ac96071">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>插画2</name>
+            <created_date>2025/08/27 07:51:34</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="877a146b41-ce4c-0bb9-1cbb-00046c7663"/>
+            </thumbnail>
+            <data>
+              <fileref idref="b6230e1410-6646-5383-5149-cc14d49a99"/>
+            </data>
+            <icedata>
+              <fileref idref="f799147227-db42-9f86-f208-a3ef86d270"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="877a146b41-ce4c-0bb9-1cbb-00046c7663" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="b6230e1410-6646-5383-5149-cc14d49a99" mime="application/octet-stream">
+      <path>插画2.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="f799147227-db42-9f86-f208-a3ef86d270" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

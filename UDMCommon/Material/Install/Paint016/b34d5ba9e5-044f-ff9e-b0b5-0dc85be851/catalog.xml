@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.0</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b34d5ba9e5-044f-ff9e-b0b5-0dc85be851">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.2.1"/>
+    <name>斑云纹1</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="46fe015b21-2242-8c8d-afc3-1b54db9568">
+        <tool company="celsys" name="paint" version="1.2.1"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="dbe70baa29-7e4c-5cae-bfd2-ecb62121d9">
+            <tool company="celsys" name="paint" version="1.2.1"/>
+            <type ver="1.0.0">image</type>
+            <name>斑云纹1</name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="6981ebe81c-7747-f1b8-c3e7-2b651aa361"/>
+            </thumbnail>
+            <data>
+              <fileref idref="54a61081a1-b940-6d91-c175-b635c833b1"/>
+            </data>
+            <icedata>
+              <fileref idref="4961cc05dc-9442-1090-7f09-bb8a356f12"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="4961cc05dc-9442-1090-7f09-bb8a356f12" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="true" id="54a61081a1-b940-6d91-c175-b635c833b1" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+    <file document="false" encrypt="false" id="6981ebe81c-7747-f1b8-c3e7-2b651aa361" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

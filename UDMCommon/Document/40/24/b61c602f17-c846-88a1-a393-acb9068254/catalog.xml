@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b61c602f17-c846-88a1-a393-acb9068254">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>落在你的手</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="3b6892b61c-f741-c79a-380c-5aa1a15afa">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="bd68fa8515-854e-7390-3ff8-b4c4402bdf">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>落在你的手</name>
+            <created_date>2025/08/28 09:11:33</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="bbaa00309f-fd42-5581-34d7-d40145fcc4"/>
+            </thumbnail>
+            <data>
+              <fileref idref="579ccf8b36-4e49-4b82-ccb2-b174e3cfcf"/>
+            </data>
+            <icedata>
+              <fileref idref="e266963eb2-dd4b-2fa6-b747-58f767a45d"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="579ccf8b36-4e49-4b82-ccb2-b174e3cfcf" mime="application/octet-stream">
+      <path>落在你的手.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="bbaa00309f-fd42-5581-34d7-d40145fcc4" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="e266963eb2-dd4b-2fa6-b747-58f767a45d" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

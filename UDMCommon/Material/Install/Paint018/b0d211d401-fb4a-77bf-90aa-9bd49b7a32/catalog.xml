@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.1.1</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b0d211d401-fb4a-77bf-90aa-9bd49b7a32">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="modeler" version="1.6.3"/>
+    <name>一摞书</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1c091a9b-8100-4ca8-85c1-4d32abcc8c9f">
+        <tool company="celsys" name="modeler" version="1.6.3"/>
+        <type ver="1.0.0">smallobject_v4</type>
+        <name>一摞书</name>
+        <created_date>2017/08/01 00:44:47</created_date>
+        <modified_date>2017/08/01 00:44:47</modified_date>
+        <required>0</required>
+        <permittool>
+          <cspdebut>1</cspdebut>
+        </permittool>
+        <export>
+          <exportable>1</exportable>
+        </export>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <thumbnail>
+          <fileref idref="ec9f50380e-6941-a78f-45f0-c59c89792a"/>
+        </thumbnail>
+        <data>
+          <fileref idref="4d80f64270-aa44-8486-19a6-0185e7707d"/>
+        </data>
+        <icedata>
+          <fileref idref="187b15ce24-cc43-ddba-0282-0cf87fe924"/>
+        </icedata>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="9d6426aa-c76f-41de-a0b8-30c8ec2bb5e2">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">materialpreset</type>
+          <name>材质</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ef97eb5c-025b-48c4-bc87-dd7718eb5933">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">materialpreset</type>
+              <name>基本</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="90baddc44f-134b-76a1-827e-12b3e0c3dc"/>
+              </thumbnail>
+              <data>
+                <fileref idref="92db597417-b84a-7da2-a8a4-0b173e52a0"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="a8147766-db22-49c4-a997-be8066a3e67e">
+          <tool company="celsys" name="modeler" version="1.6.3"/>
+          <type ver="1.0.0">transformpreset</type>
+          <name>配置</name>
+          <required>0</required>
+          <reserveId>0</reserveId>
+          <reserveWait>0</reserveWait>
+          <items>
+            <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="1ea204ea-45db-4f0b-800a-c8ebf057b7f6">
+              <tool company="celsys" name="modeler" version="1.6.3"/>
+              <type ver="1.0.0">transformpreset</type>
+              <name>基本</name>
+              <required>0</required>
+              <reserveId>0</reserveId>
+              <reserveWait>0</reserveWait>
+              <thumbnail>
+                <fileref idref="1f3190035c-f540-c583-0bf3-3857b9e519"/>
+              </thumbnail>
+              <data>
+                <fileref idref="3ac4e81dde-8e45-83a9-e17a-c50af55aaf"/>
+              </data>
+            </item>
+          </items>
+        </group>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="0a7de532-29ce-4c35-9004-4b06f6883520">
+            <tool company="celsys" name="modeler" version="1.6.3"/>
+            <type ver="1.0.0">__dummy_89A7</type>
+            <name></name>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="187b15ce24-cc43-ddba-0282-0cf87fe924" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="1f3190035c-f540-c583-0bf3-3857b9e519" mime="image/png">
+      <path>thumbnail/1ea204ea-45db-4f0b-800a-c8ebf057b7f6.png</path>
+    </file>
+    <file document="false" encrypt="true" id="3ac4e81dde-8e45-83a9-e17a-c50af55aaf" mime="application/octet-stream">
+      <path>data/1ea204ea-45db-4f0b-800a-c8ebf057b7f6</path>
+    </file>
+    <file document="false" encrypt="true" id="4d80f64270-aa44-8486-19a6-0185e7707d" mime="application/octet-stream">
+      <path>data/1c091a9b-8100-4ca8-85c1-4d32abcc8c9f</path>
+    </file>
+    <file document="false" encrypt="false" id="90baddc44f-134b-76a1-827e-12b3e0c3dc" mime="image/png">
+      <path>thumbnail/ef97eb5c-025b-48c4-bc87-dd7718eb5933.png</path>
+    </file>
+    <file document="false" encrypt="true" id="92db597417-b84a-7da2-a8a4-0b173e52a0" mime="application/octet-stream">
+      <path>data/ef97eb5c-025b-48c4-bc87-dd7718eb5933</path>
+    </file>
+    <file document="false" encrypt="false" id="ec9f50380e-6941-a78f-45f0-c59c89792a" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

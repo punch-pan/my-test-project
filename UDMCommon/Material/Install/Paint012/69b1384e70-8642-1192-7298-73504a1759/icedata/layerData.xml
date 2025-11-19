@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="e81ac51c12-fe43-10b9-d885-7524fefd36">
+    <datalist key="systemtag">
+      <data>Monochrome</data>
+      <data>LayerMask</data>
+      <data>ToneEffect</data>
+      <data>ToneScreening_4</data>
+      <data>ToneLine_15.0</data>
+      <data>ToneDensity_25</data>
+    </datalist>
+    <datalist key="foldertag">
+      <data>单色图案:基本:线网</data>
+    </datalist>
+    <datalist key="scaling">
+      <data>6</data>
+    </datalist>
+    <datalist key="isTiling">
+      <data>0</data>
+    </datalist>
+    <datalist key="howTiling">
+      <data>0</data>
+    </datalist>
+    <datalist key="directionTiling">
+      <data>0</data>
+    </datalist>
+    <datalist key="superPosition">
+      <data>-1</data>
+    </datalist>
+    <datalist key="tone">
+      <data>1</data>
+    </datalist>
+    <datalist key="toneLines">
+      <data>15.000000</data>
+    </datalist>
+    <datalist key="concentrationType">
+      <data>2</data>
+    </datalist>
+    <datalist key="concentration">
+      <data>25.000000</data>
+    </datalist>
+    <datalist key="toneKind">
+      <data>4</data>
+    </datalist>
+    <datalist key="toneAngle">
+      <data>90.000000</data>
+    </datalist>
+    <datalist key="noizeSize">
+      <data>10.000000</data>
+    </datalist>
+    <datalist key="noizeCoefficient">
+      <data>0.000000</data>
+    </datalist>
+    <datalist key="useLayerColor">
+      <data>0</data>
+    </datalist>
+    <datalist key="mainColorRed">
+      <data>0</data>
+    </datalist>
+    <datalist key="mainColorGreen">
+      <data>0</data>
+    </datalist>
+    <datalist key="mainColorBlue">
+      <data>0</data>
+    </datalist>
+    <datalist key="subColorRed">
+      <data>4294967295</data>
+    </datalist>
+    <datalist key="subColorGreen">
+      <data>4294967295</data>
+    </datalist>
+    <datalist key="subColorBlue">
+      <data>4294967295</data>
+    </datalist>
+    <datalist key="isChangeThumbnail">
+      <data>0</data>
+    </datalist>
+  </info>
+
+</infolist>

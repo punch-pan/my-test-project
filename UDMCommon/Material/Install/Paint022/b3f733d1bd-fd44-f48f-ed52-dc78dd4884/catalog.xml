@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b3f733d1bd-fd44-f48f-ed52-dc78dd4884">
+    <type>material</type>
+    <readonly>1</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>0</uploadable>
+    <tool company="celsys" name="paint" version="1.10.7"/>
+    <name>大楼10</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="8b7284f961-8a4b-0e8f-e445-e0368efc7a">
+        <tool company="celsys" name="paint" version="1.10.7"/>
+        <type ver="1.0.0">material</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="1" modify_name="1" modify_thumbnail="0" parentuuid="" uuid="682d739370-e643-ac9b-957b-70acdb53b6">
+            <tool company="celsys" name="paint" version="1.10.7"/>
+            <type ver="1.0.1">image</type>
+            <name>大楼10</name>
+            <created_date>2021/04/23 05:05:12</created_date>
+            <modified_date>2022/05/10 06:27:34</modified_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="472f75a1a6-424b-7086-a589-6bc896ef0f"/>
+            </thumbnail>
+            <data>
+              <fileref idref="c6ab1961d2-6046-c0b5-7648-9eaf9c7105"/>
+            </data>
+            <icedata>
+              <fileref idref="17f1e9acbb-fa47-b183-52b1-46cc60ebda"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="17f1e9acbb-fa47-b183-52b1-46cc60ebda" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="472f75a1a6-424b-7086-a589-6bc896ef0f" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="c6ab1961d2-6046-c0b5-7648-9eaf9c7105" mime="application/octet-stream">
+      <path>data/material_0.layer</path>
+    </file>
+  </files>
+
+</archive>

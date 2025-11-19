@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="b17b88f641-bc4e-26a5-5f30-6be2137d2e">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>maqima</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="d373c668ee-cb44-619b-2c0c-c5ccec5d80">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="451f58707d-d84e-c786-d4be-281d0419bc">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>maqima</name>
+            <created_date>2025/08/25 13:44:04</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8ee9a4a58f-5f40-3ba1-4793-6093ca4a0e"/>
+            </thumbnail>
+            <data>
+              <fileref idref="40fc3ef749-da42-4a92-82f3-272cfb1c75"/>
+            </data>
+            <icedata>
+              <fileref idref="530370b987-4c43-958b-7f31-dfbeb9af5a"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="40fc3ef749-da42-4a92-82f3-272cfb1c75" mime="application/octet-stream">
+      <path>maqima.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="530370b987-4c43-958b-7f31-dfbeb9af5a" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="8ee9a4a58f-5f40-3ba1-4793-6093ca4a0e" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+  </files>
+
+</archive>

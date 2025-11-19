@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="7e2230eae6-c74d-eca9-68c6-9228099702">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>插画</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="ca2b62aef7-364e-e3a9-1d6a-f12613a6a2">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="160d0e261d-d24c-5fbc-6077-365b4644b4">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>插画</name>
+            <created_date>2025/08/28 09:39:10</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="b342e21ad3-7448-d3a1-006f-63cbae844d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="6aa0013af7-2e4d-869e-6e59-6bdae2e552"/>
+            </data>
+            <icedata>
+              <fileref idref="bc80f69395-4d46-3da3-f182-8897328644"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="6aa0013af7-2e4d-869e-6e59-6bdae2e552" mime="application/octet-stream">
+      <path>插画.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="b342e21ad3-7448-d3a1-006f-63cbae844d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="bc80f69395-4d46-3da3-f182-8897328644" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

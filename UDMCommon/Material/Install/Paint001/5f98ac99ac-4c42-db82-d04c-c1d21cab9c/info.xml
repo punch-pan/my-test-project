@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<infolist>
+
+  <version>2.0.0</version>
+
+  <info uuid="5a9bdeda9e-bd46-57a7-ae74-27d51181e9">
+    <datalist key="lead">
+      <data></data>
+    </datalist>
+    <datalist key="tag">
+      <data>日常动作</data>
+      <data>坐着</data>
+      <data>3D</data>
+      <data>全身</data>
+    </datalist>
+  </info>
+
+</infolist>

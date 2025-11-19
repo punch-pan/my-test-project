@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="d35c492220-1044-4ea9-75a6-54566b830f">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>让正义落在你额头</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="fd44e3037c-ea44-49bf-ebf2-c845c556ec">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="26cab2ebd4-1f46-dea5-158c-7e1caf8e87">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>让正义落在你额头</name>
+            <created_date>2025/09/29 15:01:25</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="8cece6e7f4-5541-8aab-a641-d352474110"/>
+            </thumbnail>
+            <data>
+              <fileref idref="25428afafa-894e-519a-b163-a7bdc9f2bb"/>
+            </data>
+            <icedata>
+              <fileref idref="95a86da9f6-204d-f184-6f37-57a1c0f41f"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="true" id="25428afafa-894e-519a-b163-a7bdc9f2bb" mime="application/octet-stream">
+      <path>让正义落在你额头.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="8cece6e7f4-5541-8aab-a641-d352474110" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="false" id="95a86da9f6-204d-f184-6f37-57a1c0f41f" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

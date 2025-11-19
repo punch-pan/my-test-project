@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="218c3ab544-2e42-8d98-1353-ef57744cd0">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>夏彦</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6e4307f5af-6442-23a3-0006-75fb610b66">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="847ea49cb8-934a-6e82-cb97-e262f47958">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>夏彦</name>
+            <created_date>2025/08/26 07:19:32</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="5b76ee04bb-b248-b7b5-5b95-1aaf5ecc1d"/>
+            </thumbnail>
+            <data>
+              <fileref idref="92843dd2ff-bc45-ddaa-f948-bd46add2a6"/>
+            </data>
+            <icedata>
+              <fileref idref="fba32f4653-304a-d094-9f0b-3a536ef226"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="5b76ee04bb-b248-b7b5-5b95-1aaf5ecc1d" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="92843dd2ff-bc45-ddaa-f948-bd46add2a6" mime="application/octet-stream">
+      <path>夏彦.clip</path>
+    </file>
+    <file document="false" encrypt="false" id="fba32f4653-304a-d094-9f0b-3a536ef226" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+  </files>
+
+</archive>

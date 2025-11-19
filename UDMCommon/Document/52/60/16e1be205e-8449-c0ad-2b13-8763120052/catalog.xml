@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<archive>
+
+  <version>2.0.8</version>
+
+  <catalog modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" uuid="16e1be205e-8449-c0ad-2b13-8763120052">
+    <type>document</type>
+    <readonly>0</readonly>
+    <share_edit_flag>0</share_edit_flag>
+    <uploadable>1</uploadable>
+    <tool company="celsys" name="paint" version="3.0.6"/>
+    <name>？</name>
+    <groups>
+      <group modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="e3ed0eb1bf-1c48-fda8-385c-a847640294">
+        <tool company="celsys" name="paint" version="3.0.6"/>
+        <type ver="">group</type>
+        <name></name>
+        <required>0</required>
+        <reserveId>0</reserveId>
+        <reserveWait>0</reserveWait>
+        <items>
+          <item modify_description="0" modify_info="0" modify_name="0" modify_thumbnail="0" parentuuid="" uuid="6de166bf14-9c46-43ad-8789-24edd8dfa0">
+            <tool company="celsys" name="paint" version="3.0.6"/>
+            <type ver="">clipstudioformat</type>
+            <name>？</name>
+            <created_date>2025/08/28 09:37:53</created_date>
+            <required>0</required>
+            <reserveId>0</reserveId>
+            <reserveWait>0</reserveWait>
+            <thumbnail>
+              <fileref idref="4a117136ae-064a-8096-b400-ba23287068"/>
+            </thumbnail>
+            <data>
+              <fileref idref="51c44ac8f9-434a-18aa-ccc4-98d333c63e"/>
+            </data>
+            <icedata>
+              <fileref idref="3725f788ed-4b4b-16ba-c983-c22cd14c95"/>
+            </icedata>
+          </item>
+        </items>
+      </group>
+    </groups>
+    <region/>
+  </catalog>
+
+  <files>
+    <file document="false" encrypt="false" id="3725f788ed-4b4b-16ba-c983-c22cd14c95" mime="text/xml">
+      <path>icedata/layerData.xml</path>
+    </file>
+    <file document="false" encrypt="false" id="4a117136ae-064a-8096-b400-ba23287068" mime="image/png">
+      <path>thumbnail/thumbnail.png</path>
+    </file>
+    <file document="false" encrypt="true" id="51c44ac8f9-434a-18aa-ccc4-98d333c63e" mime="application/octet-stream">
+      <path>？.clip</path>
+    </file>
+  </files>
+
+</archive>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archive>
+    <version>2.0.8</version>
+    <catalog modify_thumbnail="0" modify_description="0" modify_name="0" uuid="46c4bd968d-2840-6eba-f475-5ddcd0cb16" modify_info="0">
+        <type>catalog</type>
+        <readonly>0</readonly>
+        <share_edit_flag>0</share_edit_flag>
+        <uploadable>1</uploadable>
+        <tool version="1.5.5" name="ice" company="celsys"/>
+        <name>纸张纹理素材</name>
+        <created_date>2022/06/30 15:41:23</created_date>
+        <modified_date>2022/06/30 15:41:23</modified_date>
+        <thumbnail>
+            <fileref idref="9c130cf6e7-9e4c-e4bd-8fbd-987df7e9a4"/>
+        </thumbnail>
+        <icedata>
+            <fileref idref="ccc5ec11cf-d248-139e-5cb9-224e229c21"/>
+        </icedata>
+        <groups>
+            <group modify_thumbnail="0" modify_description="0" uuid="3c1cbd8b63-e94e-45ab-f4ea-fd061eaac1" modify_name="0" modify_info="0" parentuuid="">
+                <tool version="1.5.5" name="ice" company="celsys"/>
+                <type ver="">group</type>
+                <name>sort 1</name>
+                <required>0</required>
+                <reserveId>0</reserveId>
+                <reserveWait>0</reserveWait>
+                <group modify_thumbnail="0" modify_description="0" uuid="2f66cab38c-2e4f-5fad-83bc-2742849ae2" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="1c7cb11729-fb4a-6ca1-7dcb-6353ab4519" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="3b0047b38b-fa4f-869f-2fed-4f70aecbee"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="b96358ec4f-f54f-8693-36fd-82275c2c51"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="6028148e78-214f-94b4-e69d-3d7524d578"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="63235e3b3a-eb4c-f4a9-0f85-698756938d" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="05b566c15d-3148-4885-d7f5-a5f8ca1732" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="62f0619dc0-fa4a-b5bf-93b3-d96b0519fd"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="8cc8b4391a-cb42-1cbf-56b5-4050ab290b"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="f08f93a38b-ad4e-c5ac-2e79-3b5a523165"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="7e5561a788-aa4e-5880-4d4f-96855d0029" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="0c94916f91-5243-a882-0cab-07d3d05a8e" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="5b0e792ca3-f746-abb1-a91e-26b980821d"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="028abdb0c2-5748-9a9a-bd87-c8a028408d"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="5eb3b8b22b-7d4a-1292-55df-ac11938d9c"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="7a761358c2-0248-e3a1-ad65-53a4e83149" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="fcf19e8d95-3246-5cbe-7ab3-8b8a523ab7" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="a731ed6bfd-6045-f4ac-dfbc-12642ee045"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="551acb6863-c746-c380-5e53-b18d314194"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="747a52f6e2-1d46-88bd-d398-3afbed776c"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="8a225d926f-ab4c-aaa8-b4f7-5533f8b1f2" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="51084bc6c9-4243-d089-effb-a28eb306b4" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="493b7b15b2-3f49-b4bd-cd9d-7ee62ae2b7"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="62a2dd784d-f14d-c4b7-5671-c6c0c59a94"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="c238270bc7-8947-9090-ca49-cceeda5ab1"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="94dd6adc36-b045-69a4-6341-9668da9a42" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="1630561948-b54e-2987-bb72-99374f1ff7" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="41d76c3953-aa49-6790-2ee1-168f26f1f0"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="6ed3861f0a-bf4d-dd93-cf03-b03bdf4038"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="a37a74fdcb-e44b-87a9-be56-5dabf8ac05"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="73ee551969-bb4b-3598-db17-2776f3ef2d" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="c7c5b8b335-f74b-ffa5-8b8e-7d397f98bc" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="875e3395df-0f40-6cb1-c3b2-447ab6dfa8"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="5a07dad51f-864b-7dab-c0ac-47bf444ffa"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="3ebe6e0bfc-7240-f194-18aa-c80ae71cf6"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="8b90c32aac-6348-9f94-c599-d459f35e58" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="4af1c7540c-ff46-2abb-f034-5c906d02eb" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="d4a557a348-b543-57a3-5b49-cb4c4e3edf"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="2922eb6e5d-a04b-f582-c46d-4ed7f8b3ce"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="29f3d464ff-f847-6f89-1e5b-a86726a831"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="55596a54f5-174c-6da2-7214-b33d266173" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="a830457119-1142-f1b7-e7f3-401df6b8f9" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="2da59a516d-a149-939d-166a-78782e591c"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="bde29f1211-894a-098e-5c47-0a4dfe0c33"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="8e9810dc32-dd4c-9389-6e3e-3610c01e1e"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+                <group modify_thumbnail="0" modify_description="0" uuid="ba475cecf9-ba46-c4aa-1648-4a2f4a9fb6" modify_name="0" modify_info="0" parentuuid="">
+                    <tool version="1.5.5" name="ice" company="celsys"></tool>
+                    <type ver="">material</type>
+                    <name></name>
+                    <required>0</required>
+                    <reserveId>0</reserveId>
+                    <reserveWait>0</reserveWait>
+                    <items>
+                        <item modify_thumbnail="0" modify_description="0" uuid="c096bcee39-ea4c-9b87-cb9b-7e72222c10" modify_name="0" modify_info="0" parentuuid="">
+                            <tool version="1.9.0" name="paint" company="celsys"/>
+                            <type ver="1.0.1">image</type>
+                            <name>纸张纹理素材</name>
+                            <created_date>2022/06/30 15:41:23</created_date>
+                            <modified_date>2022/06/30 15:41:23</modified_date>
+                            <required>0</required>
+                            <permittool>
+                                <cspdebut>1</cspdebut>
+                            </permittool>
+                            <reserveId>0</reserveId>
+                            <reserveWait>0</reserveWait>
+                            <thumbnail>
+                                <fileref idref="6be993b71f-f04a-2495-a64a-285201ee8b"/>
+                            </thumbnail>
+                            <data>
+                                <fileref idref="5a996178da-ec4d-1984-18ac-c4abd01a95"/>
+                            </data>
+                            <icedata>
+                                <fileref idref="5c941fbcbc-e745-f1bc-744b-ceedbc2002"/>
+                            </icedata>
+                        </item>
+                    </items>
+                </group>
+            </group>
+        </groups>
+        <region/>
+    </catalog>
+    <files>
+        <file mime="image/png" document="false" encrypt="false" id="9c130cf6e7-9e4c-e4bd-8fbd-987df7e9a4">
+            <path>thumbnail/catalogThumb.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="ccc5ec11cf-d248-139e-5cb9-224e229c21">
+            <path>icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="b96358ec4f-f54f-8693-36fd-82275c2c51">
+            <path>1c7cb11729-fb4a-6ca1-7dcb-6353ab4519/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="3b0047b38b-fa4f-869f-2fed-4f70aecbee">
+            <path>1c7cb11729-fb4a-6ca1-7dcb-6353ab4519/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="6028148e78-214f-94b4-e69d-3d7524d578">
+            <path>1c7cb11729-fb4a-6ca1-7dcb-6353ab4519/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="8cc8b4391a-cb42-1cbf-56b5-4050ab290b">
+            <path>05b566c15d-3148-4885-d7f5-a5f8ca1732/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="62f0619dc0-fa4a-b5bf-93b3-d96b0519fd">
+            <path>05b566c15d-3148-4885-d7f5-a5f8ca1732/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="f08f93a38b-ad4e-c5ac-2e79-3b5a523165">
+            <path>05b566c15d-3148-4885-d7f5-a5f8ca1732/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="028abdb0c2-5748-9a9a-bd87-c8a028408d">
+            <path>0c94916f91-5243-a882-0cab-07d3d05a8e/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="5b0e792ca3-f746-abb1-a91e-26b980821d">
+            <path>0c94916f91-5243-a882-0cab-07d3d05a8e/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="5eb3b8b22b-7d4a-1292-55df-ac11938d9c">
+            <path>0c94916f91-5243-a882-0cab-07d3d05a8e/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="551acb6863-c746-c380-5e53-b18d314194">
+            <path>fcf19e8d95-3246-5cbe-7ab3-8b8a523ab7/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="a731ed6bfd-6045-f4ac-dfbc-12642ee045">
+            <path>fcf19e8d95-3246-5cbe-7ab3-8b8a523ab7/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="747a52f6e2-1d46-88bd-d398-3afbed776c">
+            <path>fcf19e8d95-3246-5cbe-7ab3-8b8a523ab7/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="62a2dd784d-f14d-c4b7-5671-c6c0c59a94">
+            <path>51084bc6c9-4243-d089-effb-a28eb306b4/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="493b7b15b2-3f49-b4bd-cd9d-7ee62ae2b7">
+            <path>51084bc6c9-4243-d089-effb-a28eb306b4/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="c238270bc7-8947-9090-ca49-cceeda5ab1">
+            <path>51084bc6c9-4243-d089-effb-a28eb306b4/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="6ed3861f0a-bf4d-dd93-cf03-b03bdf4038">
+            <path>1630561948-b54e-2987-bb72-99374f1ff7/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="41d76c3953-aa49-6790-2ee1-168f26f1f0">
+            <path>1630561948-b54e-2987-bb72-99374f1ff7/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="a37a74fdcb-e44b-87a9-be56-5dabf8ac05">
+            <path>1630561948-b54e-2987-bb72-99374f1ff7/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="5a07dad51f-864b-7dab-c0ac-47bf444ffa">
+            <path>c7c5b8b335-f74b-ffa5-8b8e-7d397f98bc/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="875e3395df-0f40-6cb1-c3b2-447ab6dfa8">
+            <path>c7c5b8b335-f74b-ffa5-8b8e-7d397f98bc/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="3ebe6e0bfc-7240-f194-18aa-c80ae71cf6">
+            <path>c7c5b8b335-f74b-ffa5-8b8e-7d397f98bc/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="2922eb6e5d-a04b-f582-c46d-4ed7f8b3ce">
+            <path>4af1c7540c-ff46-2abb-f034-5c906d02eb/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="d4a557a348-b543-57a3-5b49-cb4c4e3edf">
+            <path>4af1c7540c-ff46-2abb-f034-5c906d02eb/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="29f3d464ff-f847-6f89-1e5b-a86726a831">
+            <path>4af1c7540c-ff46-2abb-f034-5c906d02eb/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="bde29f1211-894a-098e-5c47-0a4dfe0c33">
+            <path>a830457119-1142-f1b7-e7f3-401df6b8f9/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="2da59a516d-a149-939d-166a-78782e591c">
+            <path>a830457119-1142-f1b7-e7f3-401df6b8f9/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="8e9810dc32-dd4c-9389-6e3e-3610c01e1e">
+            <path>a830457119-1142-f1b7-e7f3-401df6b8f9/icedata/layerData.xml</path>
+        </file>
+        <file mime="application/octet-stream" document="false" encrypt="true" id="5a996178da-ec4d-1984-18ac-c4abd01a95">
+            <path>c096bcee39-ea4c-9b87-cb9b-7e72222c10/data/material_0.layer</path>
+        </file>
+        <file mime="image/png" document="false" encrypt="false" id="6be993b71f-f04a-2495-a64a-285201ee8b">
+            <path>c096bcee39-ea4c-9b87-cb9b-7e72222c10/thumbnail/thumbnail.png</path>
+        </file>
+        <file mime="text/xml" document="false" encrypt="false" id="5c941fbcbc-e745-f1bc-744b-ceedbc2002">
+            <path>c096bcee39-ea4c-9b87-cb9b-7e72222c10/icedata/layerData.xml</path>
+        </file>
+    </files>
+</archive>
